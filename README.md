@@ -36,4 +36,4 @@ Este projeto consiste em uma aplicação web para consulta de CEPs, utilizando u
 
 ## Para rodar o servidor front end:
 1. npm install
-2 npm run serve
+2. npm run serve
